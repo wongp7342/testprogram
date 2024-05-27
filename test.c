@@ -2,6 +2,10 @@
 
 int main(void)
 {
-	printf("Hello world!\n");
+	int idx = 0;
+	for(; idx < 10; ++idx)
+	{
+		printf("Hello world!\n");
+	}
 	return 0;
 }
