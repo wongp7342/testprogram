@@ -1,6 +1,6 @@
 #include "pointlessadd.h"
 
-static const int POINTLESS_OFFSET = 7;
+static const int POINTLESS_OFFSET = 10;
 
 /* Function definition */
 int PointlessAdd(int a, int b)
